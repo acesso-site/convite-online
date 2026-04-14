@@ -103,7 +103,7 @@ function applyAppIcon(valor) {
 
   const targets = {
     splashIcon:    mkImg(52, 10),
-    brandIconEl:   mkImg(44, 8),
+    brandIconEl:   mkImg(88, 8),
     sidebarIconEl: mkImg(32, 6),
   };
   Object.entries(targets).forEach(([id, html]) => {
